@@ -1,26 +1,23 @@
-# Hi, I'm Juan Angel Cuevas
+# Juan Angel Cuevas
+
 **Information Technologies & Digital Innovation Engineering Student**
-I'm a technology student who enjoys programming, designing interfaces, and working on software projects. Most of what I know comes from experimenting, building things, and learning along the way.
-- **Mobile:** Kotlin, Flutter, Jetpack Compose
-- **Frontend:** React, JavaScript, HTML, CSS
-- **Backend:** Python, FastAPI, Node.js, Express
-- **Databases:** PostgreSQL, Supabase, Firebase
-- **Tools:** Git, GitHub, Android Studio, VS Code, Figma
 
+I'm studying software development and enjoy working on mobile apps, web applications, and backend systems. I usually learn by building projects and figuring things out along the way.
 ### Projects
-**Lulistrack**  
-A delivery management platform for small businesses, with order tracking and delivery management.
 
-**Gym Forza**  
-A gym management system with QR-based access control and an Android application.
+#### [Lulistrack](https://github.com/AngelCuevas123/LulistrackDashboard)
+A last-mile delivery platform for small businesses.
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelCuevas123&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+- [Web Dashboard](https://lulistrack-dashboard.vercel.app/)
+- [Backend API](https://github.com/AngelCuevas123/BackendLulistrack)
+- [API Documentation](https://backendlulistrack.onrender.com/docs)
+- [Flutter App](https://github.com/AngelCuevas123/LulistrackApp)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelCuevas123&layout=compact&theme=github_dark&hide_border=true)
-
-About Me
-
-I'm interested in building useful software, exploring new technologies, and improving my skills through real projects.
-
-Always learning and building.
+#### [Gym Forza](https://github.com/AngelCuevas123/GymForza)
+A gym management system with a web dashboard, backend, and Android application.
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AngelCuevas123&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AngelCuevas123&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+Currently working on new projects and learning along the way.
+[GitHub Profile](https://github.com/AngelCuevas123)
